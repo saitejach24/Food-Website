@@ -1,0 +1,21 @@
+@media (320px <= width <= 620px) {
+  #headerdiv1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+  }
+  #icon {
+    height: 50px;
+    margin-top: 10px;
+  }
+  #headerdiv1 {
+    display: flex;
+  }
+  #heading1 {
+    font-size: 20px;
+    /* font-weight: 1000px; */
+    position: relative;
+    left: 10px;
+    top: 30px;
+  }
+}
