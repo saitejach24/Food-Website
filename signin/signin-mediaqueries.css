@@ -55,4 +55,11 @@
     position: relative;
     right: 2rem;
   }
+  #register {
+    color: antiquewhite;
+    margin-left: 38px;
+    margin-bottom: 10px;
+    display: block;
+    visibility: hidden;
+  }
 }
